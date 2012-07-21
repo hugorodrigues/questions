@@ -1,8 +1,8 @@
 {
   "name": "questions",
   "description": "Interface to ask interactive questions in the terminal",
-  "homepage": "https://github.com/hugorodrigues/questions"
-  "version": "0.0.1",
+  "homepage": "https://github.com/hugorodrigues/questions",
+  "version": "0.0.2",
   "author": "Hugo Rodrigues <correio@hugorodrigues.com>",
   "repository": {
     "type": "git",
