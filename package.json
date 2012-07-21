@@ -1,0 +1,14 @@
+{
+  "name": "questions",
+  "description": "Interface to ask interactive questions in the terminal",
+  "version": "0.0.0",
+  "author": "Hugo Rodrigues <correio@hugorodrigues.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://hugorodrigues@github.com/hugorodrigues/questions.git"
+  },
+  "keywords": ["terminal", "console", "interactive", "questions", "cli"],
+  "main": "./rpc",
+  "dependencies": {
+  }  
+}
