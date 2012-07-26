@@ -2,13 +2,13 @@
   "name": "questions",
   "description": "Interactive shell for your cli app",
   "homepage": "https://github.com/hugorodrigues/questions",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "author": "Hugo Rodrigues <correio@hugorodrigues.com>",
   "repository": {
     "type": "git",
     "url": "https://hugorodrigues@github.com/hugorodrigues/questions.git"
   },
-  "keywords": ["terminal", "console", "interactive", "questions", "cli"],
+  "keywords": ["terminal", "console", "interactive", "stdin",  "questions", "cli"],
   "main": "./questions.js",
   "dependencies": {
   }  

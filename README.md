@@ -4,6 +4,12 @@
 
 questions.js is a minimal interface to ask interactive questions in the terminal
 
+## Install
+```bash
+$ npm install questions
+```
+
+---
 
 ## Examples
 Ask one question: (exampleOne.js)
